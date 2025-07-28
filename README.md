@@ -41,13 +41,7 @@ A powerful and intuitive **multi-category store locator app** that helps users d
 
 ---
 
-## 📱 Screenshots
 
-<p float="left">
-  <img src="https://via.placeholder.com/180x380?text=Home+Screen" width="180" />
-  <img src="https://via.placeholder.com/180x380?text=Store+List" width="180" />
-  <img src="https://via.placeholder.com/180x380?text=Google+Map" width="180" />
-</p>
 
 ---
 
@@ -66,5 +60,9 @@ A powerful and intuitive **multi-category store locator app** that helps users d
    - Add your **SHA-1 Certificate Fingerprint**
 7. Copy the generated **API key**.
 8. Open `AndroidManifest.xml` and replace:
+
+9. 
    ```xml
    android:value="YOUR_API_KEY"
+
+   
